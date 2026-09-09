@@ -1,0 +1,31 @@
+# GitHub Pages configuration for the Resetly legal documents site.
+#
+# This site exists for one reason: both app stores require the privacy policy
+# to be reachable at a public URL that does not require a login and is not
+# geo-blocked. GitHub Pages satisfies all three conditions and costs nothing.
+#
+# What is published here is *only* the legal documents. The app repository's
+# own working files — the product spec, the hand-off written for counsel, the
+# development log and the source itself — live in a separate private
+# repository and never reach this site. A document written for a lawyer,
+# complete with open questions and unreviewed positions, must not be served
+# from the same site a store reviewer and every user will read.
+#
+# (Those files are named by their real filenames in the app repository, not
+# here: tool/publish_legal_site.sh greps this directory for those names and
+# refuses to publish if it finds one, which is a check worth keeping literal.)
+
+title: Resetly
+description: Privacy policy and terms of use for the Resetly app.
+lang: en
+
+# Jekyll renders the Markdown; no theme gem is used, so the layout in
+# _layouts/default.html is the whole design.
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Only what is listed here is built. `include` is not used, and nothing outside
+# docs/ is ever part of the site.
+exclude:
+  - README.md
