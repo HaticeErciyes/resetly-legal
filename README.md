@@ -13,4 +13,10 @@ overwritten on the next publish.
 - [Gizlilik Politikası](https://haticeerciyes.github.io/resetly-legal/gizlilik)
 - [Kullanım Şartları](https://haticeerciyes.github.io/resetly-legal/sartlar)
 
+The site also carries [Why Resetly works this
+way](https://haticeerciyes.github.io/resetly-legal/why), which explains the
+product's design decisions. It is written by hand in `docs/why.md` rather than
+generated from `legal/`, and it is not a legal document — the privacy policy is
+the binding statement of what the app records.
+
 Contact: haticeerciyes_7@hotmail.com

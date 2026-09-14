@@ -22,6 +22,11 @@ device and is never uploaded.
 - [Gizlilik Politikası](gizlilik) — Türkçe (KVKK aydınlatma metni)
 - [Kullanım Şartları](sartlar) — Türkçe
 
+## About the app
+
+- [Why Resetly works this way](why) — why there is no streak, no score, no
+  account and no chart of your feelings. Design notes, not a legal document.
+
 ## Contact
 
 Hatice Ertuğrul — [haticeerciyes_7@hotmail.com](mailto:haticeerciyes_7@hotmail.com)
