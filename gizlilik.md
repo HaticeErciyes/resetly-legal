@@ -121,8 +121,7 @@ kullanamayacağını sorar. Bu asla varsayılmaz. Siz yanıtlayana kadar hiç re
 gösterilmez. Ayarlar'dan yanıtınızı istediğiniz zaman değiştirebilir, reklamı
 tümüyle reddedebilirsiniz.
 
-**Reklamın hiçbir zaman görünmediği yerler:** tanıtım akışı, destek ekranı,
-gizlilik ve hukuki ekranlar, veri silme ekranı, check-in girişi ve çalışan bir
+**Reklamın hiçbir zaman görünmediği yerler:** destek ekranı ve çalışan bir
 etkinlik ya da sayaç sırasında. Destek ekranını açarsanız, o oturumun geri
 kalanında reklam tümüyle kapatılır.
 
@@ -160,7 +159,7 @@ Resetly bakımından erişim ve silme doğrudan sizin elinizdedir: veri
 cihazınızdadır, uygulama Geçmiş ekranında bunu size gösterir ve silme denetimi
 bunu siler. Üretecek ya da silecek bir kopya bizde yoktur.
 
-Bu bölüm genel yazılmıştır; çünkü dört açılış pazarı aynı kurallara tabi
+Bu bölüm genel yazılmıştır; çünkü beş açılış pazarı aynı kurallara tabi
 değildir ve hepsinin altında tek bir soru vardır: yalnızca cihaz üzerinde
 işlenen, veri sorumlusuna hiç ulaşmayan ve özel nitelikli olabilecek verilerin
 işlenmesi bir yükümlülük doğurur mu, doğuruyorsa hangisini? Bu soru

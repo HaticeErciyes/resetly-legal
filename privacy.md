@@ -116,10 +116,9 @@ whether advertisers may use an advertising identifier from your device. It is
 never assumed. Until you answer, no advertising is shown at all. In Settings
 you can change the answer at any time, including refusing advertising entirely.
 
-**Where advertising never appears:** onboarding, the support screen, the
-privacy and legal screens, the data-deletion screen, the check-in entry, and
-during a running exercise or timer. If you open the support screen, advertising
-is switched off for the rest of that session.
+**Where advertising never appears:** the support screen, and during a running
+exercise or timer. If you open the support screen, advertising is switched off
+for the rest of that session.
 
 ## 7. Notifications
 
@@ -149,7 +148,7 @@ In Resetly's case, access and deletion are in your hands directly: the data is
 on your device, the app shows it to you in History, and the deletion control
 erases it. We hold no copy to produce or erase.
 
-This section is written generically because the four launch markets are not
+This section is written generically because the five launch markets are not
 uniform, and because one question sits underneath all of them: whether
 on-device-only processing of possibly-special-category data, by a controller
 that never receives it, creates obligations at all — and if so, which. That

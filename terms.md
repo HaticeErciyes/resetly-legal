@@ -117,16 +117,19 @@ everything it stored on your device.
 makes it look, and the difficulty is specific rather than generic.
 
 The publisher is an **individual resident in Türkiye**. The launch markets are
-the **United States, United Kingdom, Canada and Australia** . Every user is therefore a foreign consumer, and none of them is in the
-publisher's own jurisdiction. That combination is the whole problem:
+the **United States, United Kingdom, Canada, Australia and Turkey**
+. A Turkish user shares the publisher's own jurisdiction;
+every user in the other four markets is a foreign consumer relative to the
+publisher. That split is the whole problem:
 
 1. Choosing Turkish law and Turkish courts is the natural drafting choice for
-   the publisher, but consumer-protection rules in all four launch markets
-   generally prevent a trader from depriving a consumer of the protection of
-   their own local law and their own local forum.
+   the publisher, and needs no special treatment for a Turkish user. But
+   consumer-protection rules in the other four launch markets generally
+   prevent a trader from depriving a consumer of the protection of their own
+   local law and their own local forum.
 
-2. Conversely, submitting to four foreign jurisdictions exposes an individual
-   publisher to proceedings abroad.
+2. Conversely, submitting to four foreign jurisdictions for those users
+   exposes an individual publisher to proceedings abroad.
 
 3. Both app stores impose their own developer terms, which may already settle
    part of this.

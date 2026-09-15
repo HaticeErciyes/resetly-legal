@@ -122,18 +122,19 @@ kaldırmak, cihazınızda sakladığı her şeyi siler.
 zordur ve zorluk genel değil, somuttur.
 
 Yayıncı **Türkiye'de yerleşik bir gerçek kişidir**. Açılış pazarları
-**Amerika Birleşik Devletleri, Birleşik Krallık, Kanada ve Avustralya**'dır
-. Dolayısıyla her kullanıcı yabancı bir tüketicidir ve
-hiçbiri yayıncının kendi yargı çevresinde değildir. Sorunun tamamı bu
-birleşimden doğar:
+**Amerika Birleşik Devletleri, Birleşik Krallık, Kanada, Avustralya ve
+Türkiye**'dir . Türkiye'deki bir kullanıcı yayıncıyla aynı
+yargı çevresindedir; diğer dört pazardaki her kullanıcı ise yayıncıya göre
+yabancı bir tüketicidir. Sorunun tamamı bu ayrımdan doğar:
 
 1. Türk hukukunu ve Türk mahkemelerini seçmek yayıncı için doğal olan
-   tercihtir; ancak dört açılış pazarının tümündeki tüketici koruma kuralları,
-   bir satıcının tüketiciyi kendi yerel hukukunun ve kendi yerel mahkemesinin
-   korumasından yoksun bırakmasını genel olarak engeller.
+   tercihtir ve Türkiye'deki bir kullanıcı için özel bir düzenleme
+   gerektirmez. Ancak diğer dört açılış pazarının tümündeki tüketici koruma
+   kuralları, bir satıcının tüketiciyi kendi yerel hukukunun ve kendi yerel
+   mahkemesinin korumasından yoksun bırakmasını genel olarak engeller.
 
-2. Bunun tersine, dört yabancı yargı çevresine tabi olmayı kabul etmek,
-   bireysel bir yayıncıyı yurt dışında dava riskine açar.
+2. Bunun tersine, o kullanıcılar için dört yabancı yargı çevresine tabi
+   olmayı kabul etmek, bireysel bir yayıncıyı yurt dışında dava riskine açar.
 
 3. Her iki uygulama mağazası da geliştiriciye kendi şartlarını dayatır; bu,
    meselenin bir kısmını hâlihazırda çözüyor olabilir.
