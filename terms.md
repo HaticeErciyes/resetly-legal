@@ -52,8 +52,9 @@ That has a consequence worth stating plainly: **if you lose your device, delete
 the app, or clear its storage, your record is gone and we cannot restore it.**
 There is no copy anywhere else.
 
-You can erase everything the app has recorded at any time, from
-Settings → Privacy.
+You can erase your check-in history at any time, from Settings → Privacy.
+Your advertising-consent choice is separate and has its own control on the
+same screen, so deleting your history does not change it.
 
 ## 6. Advertising
 

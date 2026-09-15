@@ -54,8 +54,9 @@ Bunun açıkça söylenmesi gereken bir sonucu vardır: **cihazınızı kaybeder
 uygulamayı silerseniz ya da deposunu temizlerseniz kaydınız gitmiş olur ve
 bunu geri getiremeyiz.** Başka hiçbir yerde bir kopyası yoktur.
 
-Uygulamanın kaydettiği her şeyi istediğiniz zaman Ayarlar → Gizlilik
-ekranından silebilirsiniz.
+Check-in geçmişinizi istediğiniz zaman Ayarlar → Gizlilik ekranından
+silebilirsiniz. Reklam izni tercihiniz ayrıdır ve aynı ekranda kendi kontrolüne
+sahiptir; geçmişinizi silmek bu tercihi değiştirmez.
 
 ## 6. Reklam
 
